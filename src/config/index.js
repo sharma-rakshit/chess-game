@@ -19,7 +19,7 @@ export const BoardLetter = {
   B: 2,
   C: 3,
   D: 4,
-  E: 5,
+  E: 5,n
   F: 6,
   G: 7,
   H: 8,
